@@ -1,0 +1,44 @@
+{
+    "fascicle_areas": {
+        "0": {
+            "value": 1.9019181472000002,
+            "unit": "um^2",
+            "axon_density": {
+                "value": 1.57735,
+                "unit": "axon/um^2"
+            }
+        },
+        "1": {
+            "value": 1.0939529840000002,
+            "unit": "um^2",
+            "axon_density": {
+                "value": 3.65646,
+                "unit": "axon/um^2"
+            }
+        },
+        "2": {
+            "value": 3.1779859120000005,
+            "unit": "um^2",
+            "axon_density": {
+                "value": 1.57332,
+                "unit": "axon/um^2"
+            }
+        },
+        "3": {
+            "value": 2.3482547520000003,
+            "unit": "um^2",
+            "axon_density": {
+                "value": 1.27754,
+                "unit": "axon/um^2"
+            }
+        }
+    },
+    "total_area": {
+        "value": 8.5221117952,
+        "unit": "um^2"
+    },
+    "total_axon_density": {
+        "value": 1.76013,
+        "unit": "axon/um^2"
+    }
+}
